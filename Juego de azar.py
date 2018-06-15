@@ -12,7 +12,7 @@ a=random.randint(1,100)
 print ("Hola", y,"Empecemos el juego")
 print ("El juego consiste en que adivine que número he pensado entre 1 a 100")
 
-while x<3 and z!=a:
+while x<5 and z!=a:
     z=int(input("Ingrese el número que cree que es: "))
     if z<a:
         print ("Mi número es más alto")
