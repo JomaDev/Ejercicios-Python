@@ -1,6 +1,6 @@
 #Converciones.py
 """
-Programa que mediante un men� permite realizar converciones entre diferentes unidades
+Programa que mediante un menu permite realizar converciones entre diferentes unidades
 de medida, debe trabajar con por lo menos 4 unidades de medida longitudinal y las
 conversiones se deben realizar entre ellas.
 """
