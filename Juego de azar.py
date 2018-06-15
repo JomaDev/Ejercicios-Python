@@ -21,7 +21,7 @@ while x<5 and z!=a:
     x=x+1
     
 if z==a:
-    print (y,"Ganaste en ", x, "intentos")
+    print (y,"Ganaste en", x, "intentos")
 else:
     print (y,"Perdiste era:",a)
         
