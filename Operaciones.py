@@ -7,7 +7,6 @@ import math          #Importamos math para la ra�z
 a=0
 b=0                               #Definir variables globales
 s=0
-x=0
 i=" "
 q=0
 n=0
